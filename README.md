@@ -1,6 +1,6 @@
 # Contagem mínima de moedas
 
-- Objetivo dado um input de valor monétario, apresentar a quantidade de mínima de moedas para representar o valor solicitado.
+- Objetivo dado um input de valor monétario, apresentar a quantidade de mínima de moedas, para representar o valor solicitado.
 
 ## Combinações de moedas
 
